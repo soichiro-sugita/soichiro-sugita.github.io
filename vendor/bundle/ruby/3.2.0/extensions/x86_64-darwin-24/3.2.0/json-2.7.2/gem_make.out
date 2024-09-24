@@ -1,0 +1,16 @@
+current directory: /Users/soichiro/soichiro-sugita.github.io/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/soichiro/.rbenv/versions/3.2.0/bin/ruby -I /Users/soichiro/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/soichiro/soichiro-sugita.github.io/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240924-74892-v8sq25 sitelibdir\=./.gem.20240924-74892-v8sq25 clean
+
+current directory: /Users/soichiro/soichiro-sugita.github.io/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240924-74892-v8sq25 sitelibdir\=./.gem.20240924-74892-v8sq25
+make: Nothing to be done for `all'.
+
+current directory: /Users/soichiro/soichiro-sugita.github.io/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240924-74892-v8sq25 sitelibdir\=./.gem.20240924-74892-v8sq25 install
+
+current directory: /Users/soichiro/soichiro-sugita.github.io/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240924-74892-v8sq25 sitelibdir\=./.gem.20240924-74892-v8sq25 clean
