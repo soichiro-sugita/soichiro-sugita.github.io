@@ -1,6 +1,8 @@
 
 
-# CV
+# Soichiro Sugita
+
+## CV
 
 CV（履歴書）は[こちら](./another_page.md)からご覧いただけます。
 
