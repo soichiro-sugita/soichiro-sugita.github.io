@@ -1,12 +1,12 @@
 
 
-## CV
+# CV
 
 CV（履歴書）は[こちら](./another_page.md)からご覧いただけます。
 
 ## Publication
 
-### Published(including)
+### Published/Forthcoming
 
 - 杉田壮一朗（近刊）「クラスサイズ縮小が生徒の学校生活における満足度に与える影響」KEIO SFC JOURNAL.
 
