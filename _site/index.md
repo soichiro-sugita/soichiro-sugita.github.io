@@ -1,10 +1,8 @@
-## Sugita Soichiro
 
-杉田壮一朗のホームページです。
 
 ## CV
 
-You can see my CV here.
+CV（履歴書）は[こちら](./another_page.md)からご覧いただけます。
 
 ## Publication
 
