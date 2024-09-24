@@ -1,6 +1,5 @@
 ## Sugita Soichiro
 
-## Sugita Soichiro
 
 杉田壮一朗のホームページです。
 
