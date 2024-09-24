@@ -2,6 +2,10 @@
 title: Soichiro Sugita/ 杉田壮一朗
 ---
 
+
+<img src="./thumbnail.jpeg" width="50%">
+
+
 **日本評論社・経済セミナー編集部／慶應義塾大学大学院政策・メディア研究科博士課程**
 
 
