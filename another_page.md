@@ -6,9 +6,14 @@ Economics of Education, Labor Economics, Micro-Econometrics
 
 ## Education
 
-- 2022 MA (Media and Governance) Keio University, Kanagawa, Japan. Committee Chairperson: Makiko Nakamuro
+- April 2022 – Present: PhD student, Graduate School of Media and Governance, Keio University
+(On leave from April 2023 to September 2024)
 
-- 2020 BA (Economics) Keio University, Tokyo, Japan. Adviser: Hiroki Kawai
+- March 2022: MA(Media and Governance), Graduate School of Media and Governance, Keio University
+Thesis Supervisor: Makiko Nakamuro
+
+- March 2020: BA(Economics), Faculty of Economics, Keio University
+Thesis Supervisor: Hiroki Kawai
 
 ## Publication
 
