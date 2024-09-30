@@ -4,15 +4,22 @@ title: Soichiro Sugita/ 杉田壮一朗
 
 <img src="./thumbnail.jpeg" width="50%">
 
+
 **慶應義塾大学大学院政策・メディア研究科博士課程**
 
+**PhD student, Graduate School of Media and Governance, Keio University**
+
 都内の出版社にて経済学関連の雑誌・書籍の編集をしながら、博士課程で研究をしています。主な関心領域は教育経済学で、現在は教育における管理職のマネジメント・リーダーシップの影響、教員の職務満足度、人的資本投資における学校の影響などのテーマに取り組んでいます。
+
+I am working as an editor of economics magazines and books at a publishing company in Tokyo, while doing my PhD research.My research interests are in the economics of education and I am currently working on topics such as the impact of management leadership in education, teacher job satisfaction and the impact of schools on human capital investment.
 
 ## CV
 
 ___
 
 CV（履歴書）は[こちら](./another_page.md)からご覧いただけます。
+
+CV is [here](./another_page.md).
 
 ## Publication
 
