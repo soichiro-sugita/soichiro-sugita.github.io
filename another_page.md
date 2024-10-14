@@ -23,7 +23,7 @@ Thesis Supervisor: Hiroki Kawai
 
 ### R&R
 
-- 杉田壮一朗「教育長は重要か？──大規模学力調査データを用いた分析」国民経済雑誌, R&R.
+- 杉田壮一朗「教育長は重要か？──大規模学力調査データを用いた分析」R&R.
 
 ### Working Paper
 
