@@ -30,3 +30,7 @@ Thesis Supervisor: Hiroki Kawai
 - 杉田壮一朗(2024)「[教育長は重要か？──大規模学力調査データを用いた分析](https://ies.keio.ac.jp/upload/DP2024-021_JP.pdf)」Keio-IES Discussion Paper Series, DP2024-021.
 
 - 藤澤啓子・深井太洋・杉田壮一朗・中室牧子 (2022)「福祉サービス第三者評価と保育の質との関連: 現状と課題」 RIETI Discussion Paper Series, 22-J-042.
+
+## Presentation
+
+- [第28回公共選択学会（ポスターセッション、予定）](https://tiida.doshisha.ac.jp/publicchoice2024.html)、「教育長は重要か？──大規模学力調査データを用いた分析」
