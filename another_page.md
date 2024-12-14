@@ -33,4 +33,4 @@ Thesis Supervisor: Hiroki Kawai
 
 ## Presentation
 
-- - [公共選択学会第28回大会（ポスターセッション）](https://tiida.doshisha.ac.jp/publicchoice2024.html)、「教育長は重要か？──大規模学力調査データを用いた分析」
+- [公共選択学会第28回大会（ポスターセッション）](https://tiida.doshisha.ac.jp/publicchoice2024.html)、「教育長は重要か？──大規模学力調査データを用いた分析」
