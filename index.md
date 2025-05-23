@@ -41,6 +41,9 @@ ___
 
 ## Presentation
 
+- [WEAI 100th Annual Conference](https://www.weai.org/events/100th-annual-conference), "The Effect of Class-size Reduction on Students’ Well-Being in School
+" , scheduled for presentation at the WEAI 100th Annual Conference, June 2025.
+
 - [公共選択学会第28回大会（ポスターセッション）](https://tiida.doshisha.ac.jp/publicchoice2024.html)、「教育長は重要か？──大規模学力調査データを用いた分析」
 
 ## memo
