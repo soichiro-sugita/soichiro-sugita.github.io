@@ -29,9 +29,11 @@ ___
 
 - 杉田壮一朗（2025）「[クラスサイズ縮小が生徒の学校生活における満足度に与える影響](https://gakkai.sfc.keio.ac.jp/journal/.assets/SFCJ24-2-17.pdf)」KEIO SFC JOURNAL, 24(2), 161-171
 
+- 杉田壮一朗（conditional accepted）「教育長交代は重要か？──大規模学力調査データを用いた分析」.
+
 ### R&R
 
-- 杉田壮一朗「教育長は重要か？──大規模学力調査データを用いた分析」R&R.
+
 
 ### Working Paper
 
