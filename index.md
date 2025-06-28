@@ -37,6 +37,8 @@ ___
 
 ### Working Paper
 
+- Sugita, S. (2025)  [“The Effect of Class-size Reduction on Students’ Well-Being in School,”](https://ies.keio.ac.jp/publications/26202/) Keio-IES Discussion Paper Series, DP2025-012.
+
 - 杉田壮一朗(2025)「[教育長交代は重要か？──大規模学力調査データを用いた分析](https://ies.keio.ac.jp/publications/25217/)」Keio-IES Discussion Paper Series, DP2024-021.(旧版は[こちら](https://ies.keio.ac.jp/publications/24298/))
 
 - 藤澤啓子・深井太洋・杉田壮一朗・中室牧子 (2022)「福祉サービス第三者評価と保育の質との関連: 現状と課題」 RIETI Discussion Paper Series, 22-J-042.
