@@ -9,9 +9,9 @@ title: Soichiro Sugita/ 杉田壮一朗
 
 **PhD Candidate, Graduate School of Media and Governance, Keio University**
 
-都内の出版社にて経済学関連の雑誌・書籍の編集をしながら、博士課程で研究をしています。専門は教育経済学です。現在はクラスサイズ縮小（少人数学級）の効果、教育における管理職のマネジメント・リーダーシップの質の測定、学校の質の統計的な推定など、人的資本投資における学校（school input/school resource）の影響をテーマに取り組んでいます。
+都内の出版社にて経済学関連の雑誌・書籍の編集をしながら、博士課程で研究をしています。専門は教育経済学・応用ミクロ計量経済学です。現在はクラスサイズ縮小（少人数学級）の効果検証、教育における管理職のマネジメント・リーダーシップの質の測定、学校の質の統計学的な推定など、人的資本投資における学校（school input/school resource）の影響をテーマに取り組んでいます。
 
-I am a PhD candidate at the Graduate School of Media and Governance, Keio University, conducting research in the field of education economics while also working as an editor of economics magazines and books at a publishing company in Tokyo. My research focuses on topics such as the impact of class size reduction (smaller class sizes), measuring the quality of management and leadership in education, and the statistical estimation of school quality. Specifically, I am exploring the influence of school inputs and resources on human capital investment.
+I am a PhD candidate at the Graduate School of Media and Governance, Keio University, conducting research in the fields of economics of education and applied microeconometrics, while also working as an editor of economics magazines and books at a publishing company in Tokyo. My research focuses on topics such as the impact of class size reduction (smaller class sizes), measuring the quality of management and leadership in education, and the statistical estimation of school quality. Specifically, I am exploring the influence of school inputs and resources on human capital investment.
 
 
 ## CV
