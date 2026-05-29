@@ -18,9 +18,9 @@ I am a PhD candidate at the Graduate School of Media and Governance, Keio Univer
 
 ___
 
-CV（履歴書）は[こちら](./another_page.md)からご覧いただけます。　[CV (PDF)](./CV.pdf)
+CV（履歴書）は[こちら](./CV.pdf)からご覧いただけます。
 
-CV is [here](./another_page.md). &nbsp; [CV (PDF)](./CV.pdf)
+CV is [here](./CV.pdf).
 
 ## Publication
 
