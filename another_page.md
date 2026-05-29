@@ -21,7 +21,7 @@ Thesis Supervisor: Hiroki Kawai
 
 - 杉田壮一朗（2025）「[クラスサイズ縮小が生徒の学校生活における満足度に与える影響](https://gakkai.sfc.keio.ac.jp/journal/.assets/SFCJ24-2-17.pdf)」『KEIO SFC JOURNAL』, 24(2), 160–170
 
-- 杉田壮一朗（forthcoming）「教育長交代は重要か？──大規模学力調査データを用いた分析」『国民経済雑誌』.
+- 杉田壮一朗（2026）「教育長交代は重要か？──大規模学力調査データを用いた分析」『国民経済雑誌』, 230(2), 1–16.
 
 ### R&R
 
@@ -36,6 +36,8 @@ Thesis Supervisor: Hiroki Kawai
 - 藤澤啓子・深井太洋・杉田壮一朗・中室牧子 (2022)「福祉サービス第三者評価と保育の質との関連: 現状と課題」 RIETI Discussion Paper Series, 22-J-042.
 
 ## Presentation
+
+- [日本経済学会（2026年度春季大会、ポスターセッション）](https://pub.confit.atlas.jp/ja/event/jea2026s)「中学校受験と通学時間、学業成績、子どものQOLに関する日本のパネルデータを使った実証分析」（佐藤大晃、大鹿桃子、中室牧子との共著）, 2026年5月, 大阪公立大学.
 
 - [WEAI 100th Annual Conference](https://www.weai.org/events/100th-annual-conference), "The Effect of Class-size Reduction on Students’ Well-Being in School
 ",　at the WEAI 100th Annual Conference, June 17, 2025.
